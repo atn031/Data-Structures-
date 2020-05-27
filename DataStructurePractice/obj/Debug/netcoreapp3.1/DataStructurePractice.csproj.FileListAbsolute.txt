@@ -1,0 +1,13 @@
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\bin\Debug\netcoreapp3.1\DataStructurePractice.exe
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\bin\Debug\netcoreapp3.1\DataStructurePractice.deps.json
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\bin\Debug\netcoreapp3.1\DataStructurePractice.runtimeconfig.json
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\bin\Debug\netcoreapp3.1\DataStructurePractice.runtimeconfig.dev.json
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\bin\Debug\netcoreapp3.1\DataStructurePractice.dll
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\bin\Debug\netcoreapp3.1\DataStructurePractice.pdb
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\obj\Debug\netcoreapp3.1\DataStructurePractice.csprojAssemblyReference.cache
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\obj\Debug\netcoreapp3.1\DataStructurePractice.csproj.CoreCompileInputs.cache
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\obj\Debug\netcoreapp3.1\DataStructurePractice.AssemblyInfoInputs.cache
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\obj\Debug\netcoreapp3.1\DataStructurePractice.AssemblyInfo.cs
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\obj\Debug\netcoreapp3.1\DataStructurePractice.dll
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\obj\Debug\netcoreapp3.1\DataStructurePractice.pdb
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\obj\Debug\netcoreapp3.1\DataStructurePractice.genruntimeconfig.cache

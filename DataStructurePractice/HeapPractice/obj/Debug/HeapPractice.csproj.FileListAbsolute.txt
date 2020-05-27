@@ -1,0 +1,7 @@
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\HeapPractice\bin\Debug\HeapPractice.exe.config
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\HeapPractice\bin\Debug\HeapPractice.exe
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\HeapPractice\bin\Debug\HeapPractice.pdb
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\HeapPractice\obj\Debug\HeapPractice.csprojAssemblyReference.cache
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\HeapPractice\obj\Debug\HeapPractice.csproj.CoreCompileInputs.cache
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\HeapPractice\obj\Debug\HeapPractice.exe
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\HeapPractice\obj\Debug\HeapPractice.pdb

@@ -1,0 +1,11 @@
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Stack\bin\Debug\Stack.exe.config
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Stack\bin\Debug\Stack.exe
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Stack\bin\Debug\Stack.pdb
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Stack\bin\Debug\LinkedList.exe
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Stack\bin\Debug\LinkedList.pdb
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Stack\bin\Debug\LinkedList.exe.config
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Stack\obj\Debug\Stack.csproj.CopyComplete
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Stack\obj\Debug\Stack.exe
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Stack\obj\Debug\Stack.pdb

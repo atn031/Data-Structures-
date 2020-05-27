@@ -1,0 +1,7 @@
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Recursion\bin\Debug\Recursion.exe
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Recursion\bin\Debug\Recursion.pdb
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Recursion\obj\Debug\Recursion.exe
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\Recursion\obj\Debug\Recursion.pdb

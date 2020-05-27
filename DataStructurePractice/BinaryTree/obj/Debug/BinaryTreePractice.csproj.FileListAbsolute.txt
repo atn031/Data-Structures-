@@ -1,0 +1,7 @@
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\BinaryTree\bin\Debug\BinaryTreePractice.exe.config
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\BinaryTree\bin\Debug\BinaryTreePractice.exe
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\BinaryTree\bin\Debug\BinaryTreePractice.pdb
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\BinaryTree\obj\Debug\BinaryTreePractice.csprojAssemblyReference.cache
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\BinaryTree\obj\Debug\BinaryTreePractice.csproj.CoreCompileInputs.cache
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\BinaryTree\obj\Debug\BinaryTreePractice.exe
+C:\Users\Anh Nguyen\source\repos\DataStructurePractice\BinaryTree\obj\Debug\BinaryTreePractice.pdb
